@@ -226,3 +226,22 @@ margin: 0 auto;
 #times h2 {
     color:#fafafa;
 }
+
+ footer {
+    height: 150px;
+
+ }
+
+ .social_networks{
+    text-align: center;
+ }
+
+ .social_networks > li {
+    display: inline;
+ }
+
+ .social-networks i {
+    font-size: 160%;
+ }
+
+ 
